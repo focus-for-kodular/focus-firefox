@@ -2,8 +2,6 @@
 # Focus for firefox
 Focus for Firefox: Away with toolbars! With focus, you can hide the toolbars or navigation bars of Kodular, providing you a better and more second screen-friendly experience.
 
-Original idea: [Yusuf Cihan](https://github.com/yusufcihan)
-
 License: CC0-1.0 Universal
 
 Screenshot (note that the UI is still in beta):
