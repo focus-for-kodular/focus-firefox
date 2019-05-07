@@ -12,4 +12,4 @@ Away with toolbars! With Focus, you can hide the toolbars or navigation bars of 
 License: CC0-1.0 Universal
 
 ### Screenshot
-![The creator, showing the addon, on Ubuntu 18.04](https://raw.githubusercontent.com/Daaniiieel/focus-for-firefox/master/screenshot.png)
+![The creator, showing the addon, on Ubuntu 18.04](https://raw.githubusercontent.com/focus-for-kodular/focus-firefox/master/screenshot.png)
